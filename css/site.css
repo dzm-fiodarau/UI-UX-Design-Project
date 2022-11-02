@@ -25,3 +25,25 @@ body nav div .nav .nav-item .nav-link:hover {
     font-size: 18px;
     color: rgb(61, 114, 164);
 }
+
+.text-area {
+    width: 50%;
+    margin: auto;
+}
+
+.title {
+    margin-top: 50px;
+    margin-bottom: 25px;
+    font-family: Roboto-Bold;
+}
+
+.subtitle {
+    margin-top: 40px;
+    font-family: Roboto-Italic;
+}
+
+.text {
+    font-family: Roboto;
+    text-align: justify;
+    text-justify: inter-word;
+}
